@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Jatumongkon Suksrinuan
+### Hi there 👋, My name is Ped
 ```python
 print("I'm Ped")
 print("Hello world!")
